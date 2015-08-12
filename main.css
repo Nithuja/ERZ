@@ -1,0 +1,26 @@
+body
+{
+	background-color:  #DEB887;
+}
+h1
+{
+	text-align: center;
+}
+
+.form-group
+{
+	padding-left: 15%;
+}
+
+.radio
+{
+	padding-left: 17%;
+}
+.form-control
+{
+	    width: 24%;
+}
+.table
+{
+	max-width: 68%;
+}
